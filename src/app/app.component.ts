@@ -76,12 +76,10 @@ export class AppComponent implements OnInit {
   }
 
   private onInfoUpdates(info: any) {
-    console.log('new info', info);
     return;
   }
 
   private async onNewEvents(e: any) {
-    console.log('new event', e);
     return;
   }
 
